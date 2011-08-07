@@ -60,7 +60,7 @@ with an interactive environment. Anchor could be nested, too.
 You can anchor another object inside a _ripl_ session. The number
 shown in prompt is the level of anchors, started from 1.
 
-![Screenshot](https://github.com/godfat/ripl-rc/raw/master/screenshot.png)
+![Screenshot](https://github.com/godfat/ripl-rc/raw/ripl/screenshot.png)
 
 Please read this blog post for other detail since I haven't
 had time to update this README... Sorry about that.
