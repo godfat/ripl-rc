@@ -9,7 +9,11 @@ by Lin Jen-Shin ([godfat](http://godfat.org))
 
 ## DESCRIPTION:
 
-ripl plugins collection, take you want, leave you don't.
+ripl plugins collection, take you want, leave you don't
+
+p.s. I have moved the development from here to [Rib][]
+
+[Rib]: https://github.com/godfat/rib
 
 ## REQUIREMENTS:
 
