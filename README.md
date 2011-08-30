@@ -143,10 +143,7 @@ special tool:
 
 * `require 'ripl/rc/anchor'`
 
-  So this is my attempt to emulate pry in ripl. Instead
-  trying to make pry support irb_history, colorizing, etc.,
-  I think implement pry like feature in ripl is a lot easier.
-  No need to be fancy, I just need the basic functionality.
+  So this is my attempt to emulate pry in ripl.
 
   To use it, use:
   <pre><code>Ripl.anchor your_object_want_to_be_viewed_as_self</code></pre>
